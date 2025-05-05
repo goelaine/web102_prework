@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<a href = 'https://imgur.com/a/codepath-webdev102-prework-EtP9dq2' Video Walkthrough>
+<a href = 'https://imgur.com/a/codepath-webdev102-prework-EtP9dq2'> Video Walkthrough</a>
 <!-- <img src='https://imgur.com/a/codepath-webdev102-prework-EtP9dq2' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
